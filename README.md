@@ -1,6 +1,6 @@
 # 🐾 Sathya Swaruban
 
-**`Full Stack Developer`**
+#### **`Full Stack Developer`**
 
 ## Languages and Tools
 
