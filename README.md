@@ -1,4 +1,4 @@
-# 🐾 Sathya Swaruban
+# 😎 Sathya Swaruban 
 
 #### **`Full Stack Developer`**
 
